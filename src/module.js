@@ -71,6 +71,8 @@
           return request.delete(urlWithId(url, id));
         };
 
+        instance.modelize = modelizeEntity;
+
         return instance;
 
 

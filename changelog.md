@@ -1,5 +1,11 @@
 # betsol-ng-repository changelog
 
+## Version 0.0.3
+(07 Nov 2015)
+
+- Entity modelization method exposed to public API
+
+
 ## Version 0.0.2
 (27 Oct 2015)
 

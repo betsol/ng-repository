@@ -1,7 +1,7 @@
 {
   "name": "betsol-ng-repository",
   "description": "Repository constructor for Angular.js",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "homepage": "https://github.com/betsol/ng-repository",
   "license": "MIT",
   "main": "dist/betsol-ng-repository.js",
