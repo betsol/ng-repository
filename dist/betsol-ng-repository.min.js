@@ -1,6 +1,6 @@
 /**
  * betsol-ng-repository - Repository constructor for Angular.js
- * @version v0.0.2
+ * @version v0.0.3
  * @link https://github.com/betsol/ng-repository
  * @license MIT
  *
