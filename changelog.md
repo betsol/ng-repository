@@ -1,5 +1,11 @@
 # betsol-ng-repository changelog
 
+## Version 0.0.4
+(05 Mar 2016)
+
+- Added support for CommonJS
+
+
 ## Version 0.0.3
 (07 Nov 2015)
 
